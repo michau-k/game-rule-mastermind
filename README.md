@@ -21,7 +21,7 @@ For the codebreaker to find the color pattern of the codemaker
 # Game Rules
 - Big pegs can only go into big holes
 - Small pegs can only go into small holes
-- Once pegs are in a holes, they can move away from it until the end of the game
+- Once pegs are in a hole, they can't move away from it until the end of the game
 - At the beggining of the game, the codemaker chooses 4 big pegs and puts them in his chosen order in the special line of big holes that only him can see
 - His pattern of color can include the same color several times
 - The game start when the codemaker is done making his pattern
@@ -29,7 +29,7 @@ For the codebreaker to find the color pattern of the codemaker
 - The game is turn based, alternating players
 - First turn is played by the codebreaker
 - For each one of his turn, the codebreaker has to play in the first bottom line than has been played yet
-- During his turn, the codebreaker chooses 4 big pegs and puts them in his chosen order in a line of big holes and end his turn
+- During his turn, the codebreaker chooses a pattern of 4 big pegs and puts them in his chosen order in a line of big holes and end his turn
 - During his turn, the codemaker has to compare the pattern the codebreaker just chose to his hidden pattern of colors. He then puts small pegs accordingly in the second column in the square next to the line the codebreaker just played in
 - He will put 0 to 4 pegs
 - He must put one black pegs for each correct color in the right spot in the codebreaker pattern
