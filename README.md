@@ -1,6 +1,6 @@
 # game-rule-mastermind
-First project for Game Design Course at BJTU
-Student: Alex Michaux - id: 15129031
+- First project for Game Design Course at BJTU
+- Student: Alex Michaux - id: 15129031
 # Game Player(s)
 2 Players play against each other :
   - One is the codemaker
